@@ -1,0 +1,3 @@
+- I’m Zendor
+- I’m currently learning Coding and JavaScript
+- Find me on Discord as Zendor#0570
